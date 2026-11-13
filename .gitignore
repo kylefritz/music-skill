@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# rendered tracks stay out of the repo; the one demo lives in docs/
+banger-*/
+*.wav
+tmp/
